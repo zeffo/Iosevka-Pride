@@ -1,0 +1,45 @@
+[buildPlans.IosevkaPride]
+family = "Iosevka Pride"
+spacing = "normal"
+serifs = "sans"
+noCvSs = false
+exportGlyphNames = true
+
+  [buildPlans.IosevkaPride.variants]
+  inherits = "ss12"
+
+    [buildPlans.IosevkaPride.variants.design]
+    capital-j = "serifed"
+    capital-m = "hanging-serifless"
+    f = "flat-hook-serifless"
+    i = "serifed-semi-tailed"
+    j = "serifed"
+    t = "flat-hook"
+    y = "cursive-flat-hook-serifless"
+    zero = "dotted"
+    two = "curly-neck"
+    three = "two-arcs"
+    five = "upright-arched"
+    six = "closed-contour"
+    seven = "straight-serifless"
+    eight = "crossing-asymmetric"
+    nine = "closed-contour"
+    dollar = "through"
+
+    [buildPlans.IosevkaPride.variants.italic]
+    capital-j = "serifed"
+    capital-m = "hanging-serifless"
+    f = "flat-hook-tailed"
+    i = "serifed-semi-tailed"
+    j = "serifed"
+    t = "flat-hook"
+    x = "semi-chancery-straight"
+    zero = "dotted"
+    two = "straight-neck"
+    three = "two-arcs"
+    five = "upright-arched"
+    six = "closed-contour"
+    seven = "straight-serifless"
+    eight = "crossing-asymmetric"
+    nine = "closed-contour"
+    dollar = "through"
