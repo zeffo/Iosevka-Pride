@@ -2,7 +2,7 @@
 family = "Iosevka Pride"
 spacing = "normal"
 serifs = "sans"
-noCvSs = false
+noCvSs = true
 exportGlyphNames = true
 
   [buildPlans.IosevkaPride.variants]
@@ -12,6 +12,7 @@ exportGlyphNames = true
     capital-j = "serifed"
     capital-m = "hanging-serifless"
     f = "flat-hook-serifless"
+    g = "single-storey-flat-hook-earless-corner"
     i = "serifed-semi-tailed"
     j = "serifed"
     t = "flat-hook"
