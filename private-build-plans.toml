@@ -2,7 +2,7 @@
 family = "Iosevka Pride"
 spacing = "normal"
 serifs = "sans"
-noCvSs = true
+noCvSs = false
 exportGlyphNames = true
 
   [buildPlans.IosevkaPride.variants]
@@ -75,5 +75,10 @@ css = 700
 
 [buildPlans.IosevkaPride.widths.Normal]
 shape = 525
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaPride.widths.Extended]
+shape = 600
 menu = 5
 css = "normal"
