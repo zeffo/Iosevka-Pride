@@ -1,0 +1,350 @@
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-Light.woff2') format('woff2'), url('TTF/IosevkaPride-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-ExtendedLight.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-LightOblique.woff2') format('woff2'), url('TTF/IosevkaPride-LightOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	src: url('WOFF2/IosevkaPride-LightOblique.woff2') format('woff2'), url('TTF/IosevkaPride-LightOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-ExtendedLightOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedLightOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	src: url('WOFF2/IosevkaPride-ExtendedLightOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedLightOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-LightItalic.woff2') format('woff2'), url('TTF/IosevkaPride-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-ExtendedLightItalic.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-Regular.woff2') format('woff2'), url('TTF/IosevkaPride-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-Extended.woff2') format('woff2'), url('TTF/IosevkaPride-Extended.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-Oblique.woff2') format('woff2'), url('TTF/IosevkaPride-Oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	src: url('WOFF2/IosevkaPride-Oblique.woff2') format('woff2'), url('TTF/IosevkaPride-Oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-ExtendedOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	src: url('WOFF2/IosevkaPride-ExtendedOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-Italic.woff2') format('woff2'), url('TTF/IosevkaPride-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-ExtendedItalic.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-Medium.woff2') format('woff2'), url('TTF/IosevkaPride-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-ExtendedMedium.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedMedium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-MediumOblique.woff2') format('woff2'), url('TTF/IosevkaPride-MediumOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	src: url('WOFF2/IosevkaPride-MediumOblique.woff2') format('woff2'), url('TTF/IosevkaPride-MediumOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-ExtendedMediumOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedMediumOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	src: url('WOFF2/IosevkaPride-ExtendedMediumOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedMediumOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-MediumItalic.woff2') format('woff2'), url('TTF/IosevkaPride-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-ExtendedMediumItalic.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedMediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-SemiBold.woff2') format('woff2'), url('TTF/IosevkaPride-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-ExtendedSemiBold.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-SemiBoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-SemiBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	src: url('WOFF2/IosevkaPride-SemiBoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-SemiBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-ExtendedSemiBoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedSemiBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	src: url('WOFF2/IosevkaPride-ExtendedSemiBoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedSemiBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-SemiBoldItalic.woff2') format('woff2'), url('TTF/IosevkaPride-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-ExtendedSemiBoldItalic.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedSemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-Bold.woff2') format('woff2'), url('TTF/IosevkaPride-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2/IosevkaPride-ExtendedBold.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-BoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-BoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	src: url('WOFF2/IosevkaPride-BoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-BoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2/IosevkaPride-ExtendedBoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	src: url('WOFF2/IosevkaPride-ExtendedBoldOblique.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedBoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-BoldItalic.woff2') format('woff2'), url('TTF/IosevkaPride-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Pride Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2/IosevkaPride-ExtendedBoldItalic.woff2') format('woff2'), url('TTF/IosevkaPride-ExtendedBoldItalic.ttf') format('truetype');
+}

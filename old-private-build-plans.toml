@@ -1,0 +1,84 @@
+[buildPlans.IosevkaPride]
+family = "Iosevka Pride"
+spacing = "normal"
+serifs = "sans"
+noCvSs = false
+exportGlyphNames = true
+
+  [buildPlans.IosevkaPride.variants]
+  inherits = "ss12"
+
+    [buildPlans.IosevkaPride.variants.design]
+    capital-j = "serifed"
+    capital-m = "hanging-serifless"
+    f = "flat-hook-serifless-crossbar-at-x-height"
+    g = "single-storey-flat-hook-earless-corner"
+    i = "serifed-semi-tailed"
+    j = "flat-hook-serifed"
+    r = "serifless"
+    t = "flat-hook"
+    u = "toothless-rounded-serifless"
+    y = "cursive-flat-hook-serifless"
+    zero = "dotted"
+    two = "curly-neck"
+    three = "two-arcs"
+    five = "upright-arched"
+    six = "closed-contour"
+    seven = "straight-serifless"
+    eight = "crossing-asymmetric"
+    nine = "closed-contour"
+    dollar = "through"
+
+    [buildPlans.IosevkaPride.variants.italic]
+    capital-j = "serifed"
+    capital-m = "hanging-serifless"
+    f = "flat-hook-tailed"
+    i = "serifed-semi-tailed"
+    j = "serifed"
+    r = "earless-corner-serifless"
+    t = "flat-hook"
+    x = "semi-chancery-straight"
+    zero = "dotted"
+    two = "straight-neck"
+    three = "two-arcs"
+    five = "upright-arched"
+    six = "closed-contour"
+    seven = "straight-serifless"
+    eight = "crossing-asymmetric"
+    nine = "closed-contour"
+    dollar = "through"
+
+[buildPlans.IosevkaPride.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.IosevkaPride.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaPride.weights.Medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.IosevkaPride.weights.SemiBold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.IosevkaPride.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaPride.widths.Normal]
+shape = 525
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaPride.widths.Extended]
+shape = 600
+menu = 7
+css = "expanded"
